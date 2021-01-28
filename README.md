@@ -7,7 +7,6 @@
 ----------------------------------------------------
 ![image](https://user-images.githubusercontent.com/58721320/106116676-87206280-6195-11eb-9b5a-6e4fae2a5252.png)
 ----------------------------------------------------
-
 ### 평가기준표
 
 #### BE_PJT A-1. 나를 소개하는 홈페이지 만들기
@@ -19,6 +18,17 @@
 ![image](https://user-images.githubusercontent.com/58721320/105573207-3a0c4d00-5d9f-11eb-9e5c-bb84d72f31cd.png)
 ![image](https://user-images.githubusercontent.com/58721320/105573211-42fd1e80-5d9f-11eb-8b38-52bc53a07744.png)
 
+------------------------------------
+### 평가기준표
+
+#### BE_PJT B-1.TO-DO LIST 구현하기
+
+![image](https://user-images.githubusercontent.com/58721320/106117103-0877f500-6196-11eb-93a0-49e8248116a5.png)
+
+#### FE_PJT B-2.TO-DO LIST 구현하기
+
+![image](https://user-images.githubusercontent.com/58721320/106117170-188fd480-6196-11eb-86b2-abca23e8a9e8.png)
+![image](https://user-images.githubusercontent.com/58721320/106117198-1f1e4c00-6196-11eb-8270-382c5804cbf1.png)
 --------------------------------------------------------
 
 프로젝트 코드파일은 업로드가 불가하여 핵심적인 부분을 위주로 리뷰를 진행한다.
