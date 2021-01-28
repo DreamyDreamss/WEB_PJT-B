@@ -1,4 +1,4 @@
-# WEB_PJT-A
+# WEB_PJT-B. TO-DO LIST 구현 하기
 -----------------------------------
 ### 프로젝트 개요
 ![image](https://user-images.githubusercontent.com/58721320/106116561-622bef80-6195-11eb-80a6-875a76ad86c4.png)
