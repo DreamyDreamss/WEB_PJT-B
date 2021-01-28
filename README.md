@@ -9,18 +9,6 @@
 ----------------------------------------------------
 ### 평가기준표
 
-#### BE_PJT A-1. 나를 소개하는 홈페이지 만들기
-
-![image](https://user-images.githubusercontent.com/58721320/105573176-0c270880-5d9f-11eb-9fdd-c85adb18e54e.png)
-
-#### FE_PJT A-2. 나를 소개하는 홈페이지 만들기
-
-![image](https://user-images.githubusercontent.com/58721320/105573207-3a0c4d00-5d9f-11eb-9e5c-bb84d72f31cd.png)
-![image](https://user-images.githubusercontent.com/58721320/105573211-42fd1e80-5d9f-11eb-8b38-52bc53a07744.png)
-
-------------------------------------
-### 평가기준표
-
 #### BE_PJT B-1.TO-DO LIST 구현하기
 
 ![image](https://user-images.githubusercontent.com/58721320/106117103-0877f500-6196-11eb-93a0-49e8248116a5.png)
